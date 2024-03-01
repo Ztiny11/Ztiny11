@@ -22,3 +22,11 @@ Banking Systems - Deep expertise in optimising core systems for major financial 
 Process Optimization - Redesigned over 100 processes using gap analysis, benchmarking, and process mapping to align with goals.
 
 Proven ability to deliver projects on time and budget while driving adoption. Forward-thinking leader focused on leveraging technology to enable strategic business goals.
+
+...
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg" alt="azuredevops logo" width="50" Height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo" width="50" Height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva logo" width="50" Height= "50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg" alt="confluence logo" width="50" Height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira logo" width="50" Height="50" /> <img src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" alt="SQLite logo" width="50" Height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow logo" width="50" Height="50" /> <img src="https://seeklogo.com/images/D/databricks-logo-2F2F1E37DB-seeklogo.com.png" alt="Databricks logo" width="50" Height="50" />
+<img src="https://seeklogo.com/images/U/uipath-logo-A1C4FA204C-seeklogo.com.png" alt="Uipath logo" width="50" Height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Lucidchart-logo.svg" alt="Lucidchart logo" width="100" Height="100" /> 
+...
